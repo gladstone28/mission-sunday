@@ -1,0 +1,33 @@
+body {
+ margin: 0;
+ font-family: Helvetica;
+  
+}
+header {
+  height: 100px;
+  background: #add9d8;  
+}
+img {
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 10px;   
+}
+main {
+  height: 600px;
+  background: white;
+  padding: 10px;
+}
+h1 {
+  font-weight: 200;
+}
+
+a {
+  text-decoration: none;
+  color: #707070;
+  font-weight: 600;
+}
+
+footer {
+  height: 200px;
+  background: #575959;
+}
